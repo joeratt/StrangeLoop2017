@@ -1,6 +1,6 @@
 # Twitter PowerTrack
 URL: https://thestrangeloop.com/2017/inside-twitters-realtime-delivery-of-tweets-for-enterprise-customers.html
-Speaker: https://twitter.com/elemdoubleu
+Speaker:  Lisa White -- https://twitter.com/elemdoubleu
 Project URL: https://developer.twitter.com/en/enterprise
 
 Allows conumers to get tweets that are relevent to them. Customizable.
