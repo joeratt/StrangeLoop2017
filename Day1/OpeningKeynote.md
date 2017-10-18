@@ -1,7 +1,8 @@
-# Opening Keynote
-## Title & Speaker to come
+# Opening Keynote -  Measuring and Optimizing Tail Latency
+Speaker: Kathryn McKinley - [Personnal Website](http://www.cs.utexas.edu/~mckinley/)
+Talk: [YouTube Recording](https://youtu.be/_Zoa3xkzgFk)
 
-### Improving Performance and Resource Usage of DataCenters
+# Improving Performance and Resource Usage of DataCenters
 
 Slowness loses customers / consumers
 
